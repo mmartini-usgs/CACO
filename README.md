@@ -27,7 +27,7 @@ Here is a screen capture of a data processor's ideal workspace, acheive in Jupyt
 
 ![screen shot](idealprocessorsview.jpg)
 
-### QA/QC
+### QA/QC 
 As we move to the python world for our workflows, important information still exists over on our old SVN repository wiki.  Here are some significant pages there:
 * Things to check before submitting data for review:  https://cmgsoft.repositoryhosting.com/trac/cmgsoft_m-cmg/wiki/preBBVcheck
 * Creating a new netCDF file based on an existing template:  https://cmgsoft.repositoryhosting.com/trac/cmgsoft_m-cmg/wiki/schema2newfile
